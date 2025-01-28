@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analysis in R / Rstudio and SQL 
 - 🌱 I’m currently learning Data analysis
 - 💞️ I’m looking to collaborate on different data analysis project
-- How to reahc me 
+- How to reach me 
 - ⚡ Fun fact: ...
 
 <!---
